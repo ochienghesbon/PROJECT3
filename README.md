@@ -1,4 +1,4 @@
-# {Multiple Exam Queations}
+# {Multiple Exam Questions}
 #### {The application allows students to take multiple choice questions, submit their assignments and see their results immediately posted on the portal }, {13/05/2022}
 #### By **{Ochieng Hesbon}**
 ## Description
