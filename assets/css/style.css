@@ -1,11 +1,18 @@
 body{
-    background-color: grey;
+    background-color: whitesmoke;
     color: black;
     font-weight: 900;
-    margin-left: 2 rem;
+    
+    
 }
-.variables{
+.position{
     position: sticky;
     top: 0px;
+    color: rebeccapurple;
+    margin-left: 100px;
 
+}
+#question{
+    
+    margin-left: 100px
 }
