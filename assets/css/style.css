@@ -4,3 +4,8 @@ body{
     font-weight: 900;
     margin-left: 2 rem;
 }
+.variables{
+    position: sticky;
+    top: 0px;
+
+}
