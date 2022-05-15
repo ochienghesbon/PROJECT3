@@ -1,15 +1,15 @@
 let answers = [
   
-  "Must not contain spaces",
-  "concat()method",
-  "Camelcase",
-  "declare",
-  "math.ceil",
-  "math.PI",
-  "Global scopes",
-  "loops",
-  "YES",
-  "While",
+  "A",
+  "D",
+  "D",
+  "D",
+  "D",
+  "B",
+  "A",
+  "D",
+  "B",
+  "A",
 ];
 let form=document.querySelector('form')
 
