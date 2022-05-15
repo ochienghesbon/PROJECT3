@@ -12,11 +12,14 @@ body{
     margin-left: 100px;
 }
 #buttn{
-    margin-left: 700px;
-    background-color: black;
-    color: whitesmoke;
+    margin-left: 58rem;
+    color: black;
+    font-style: italic;
     position: sticky;
     top: 0px;
+    
+    
+    
     
 }
 
