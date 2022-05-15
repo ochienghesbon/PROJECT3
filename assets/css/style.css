@@ -1,7 +1,8 @@
 body{
-    background-color: gainsboro;
+    background-color: lightgray;
     color: black;
     font-weight: 900;
+
     
     
 }
@@ -9,8 +10,17 @@ body{
     
     color: rebeccapurple;
     margin-left: 100px;
-
 }
+#buttn{
+    margin-left: 700px;
+    background-color: black;
+    color: whitesmoke;
+    position: sticky;
+    top: 0px;
+    
+}
+
+
 #question{
     
     margin-left: 100px;
@@ -31,8 +41,9 @@ nav{
     justify-content: space-between;
     position: sticky;
     top: 0px;
-
-
+}
+#index{
+    background-color: lightgray;
 }
 .linking{
     position: relative;
