@@ -34,3 +34,19 @@ nav{
 
 
 }
+.linking{
+    position: relative;
+    top: 0px;
+font-weight: bolder;
+align-items: center;
+margin-left: 500px;
+margin-top: 300px;
+font-size: xx-large;
+font-style: italic;
+}
+.buton{
+    font-style: italic;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+}
