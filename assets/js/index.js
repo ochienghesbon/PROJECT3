@@ -25,5 +25,5 @@ form.addEventListener("submit", function(e) {
     i++
    
   }
-  alert("your score is "+score*10)+'%'
+  document.write("your score is "+score*10)+'%'
 })
